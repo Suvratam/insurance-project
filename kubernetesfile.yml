@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: insurance
-          image: suvratam/staragileprojectmedicure:v1
+          image: suvratam/staragileprojectinsureme:v1
           ports:
             - containerPort: 8081
           env:
